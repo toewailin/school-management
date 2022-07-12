@@ -20,24 +20,24 @@
 
 ### Role
 > Editor  
-* Admin or Head Teacher  
-  `Web View, Desktop App (Laravel, Flutter)`
+  * Admin or Head Teacher  
+    `Web View, Desktop App (Laravel, Flutter)`
 
 > Viewer
-* Owner
-* Staffs
-* Parents
-* Guests   
-  `Android, iOS (Flutter)`
+  * Owner
+  * Staffs
+  * Parents
+  * Guests   
+    `Android, iOS (Flutter)`
 
 > Form Filler
-* Teachers (Events, Attendence, Reports)
-* Parents & Guests (Feedback, FAQs, Students Information)  
-  `Android, iOS (Flutter)`
+  * Teachers (Events, Attendence, Reports)
+  * Parents & Guests (Feedback, FAQs, Students Information)  
+    `Android, iOS (Flutter)`
 
 > Learning <=> Teaching
-* Teacher `Web, Desktop`  
-* Students `Web, Desktop, Android, iOS`
+  * Teacher `Web, Desktop`  
+  * Students `Web, Desktop, Android, iOS`
 
 ### Main Functions/Features
 1. Teaching/Learning
@@ -53,19 +53,19 @@
     - Chat
     - Screen Sharing
     - Whiteboard
-1. Course & Batches & Timetable & Events
-1. Users Login
+2. Course & Batches & Timetable & Events
+3. Users Login
   * Admin
   * Teachers/Students
   * Staffs/Teachers
   * Parents
   * Owner
-1. Students Management
+4. Students Management
   * Students Admission
   * Students Attendence
   * Students Details
   * Students Resign Certificate
-1. Staffs/Teachers Management (HR)
+5. Staffs/Teachers Management (HR)
   * Staffs/Teachers Admission
   * Staffs/Teachers Attendence
   * Staffs/Teachers Daily Reports
@@ -73,27 +73,27 @@
   * Staffs/Teachers Leave
   * Staffs/Teachers Payslip
   * Staffs/Teachers Resign
-1. Department Management
+6. Department Management
   * Departments Classfication
-1. Subjects Management
-1. Timetable Management
-1. Fees Management
+7. Subjects Management
+8. Timetable Management
+9. Fees Management
   * Monthly Fees
   * Yearly Fees
   * Door to Door
-1. Library Management
+10. Library Management
   * Members
   * Borrow
   * Rating
   * Essey
   * Letter
-1. Hostel/Rooms Management
-1. Transport Management
-1. Inventory Management
-1. Income/Expense Management
-1. Activities
-1. Feedback
-1. Alerts / Notice
+11. Hostel/Rooms Management
+12. Transport Management
+13. Inventory Management
+14. Income/Expense Management
+15. Activities
+16. Feedback
+17. Alerts / Notice
   `SMS, Email`
-1. Reporting System (Excel, PDF, CSV, Print)
-1. Logout
+18. Reporting System (Excel, PDF, CSV, Print)
+19. Logout
