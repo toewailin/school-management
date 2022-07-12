@@ -33,23 +33,23 @@
 * Guests  
 
 ### Role
-> Editor  
+**Editor**
   * Admin or Head Teacher  
     `Web View, Desktop App (Laravel, Flutter)`
 
-> Viewer
+**Viewer**
   * Owner
   * Staffs
   * Parents
   * Guests   
     `Android, iOS (Flutter)`
 
-> Form Filler
+**Form Filler**
   * Teachers (Events, Attendence, Reports)
   * Parents & Guests (Feedback, FAQs, Students Information)  
     `Android, iOS (Flutter)`
 
-> Learning <=> Teaching
+**Learning <=> Teaching**
   * Teacher `Web, Desktop`  
   * Students `Web, Desktop, Android, iOS`
 
