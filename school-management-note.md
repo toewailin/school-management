@@ -1,11 +1,15 @@
 # School Management System
 ## Learning, Teaching, Managing System (LTMS)
-## School One, School Two, ...
+
+| Provider | Clients 1 | Clients 2 | Clients N |
+| :---  | :---: | :---: | ---: |
+| US | School One | School Two | School N |
 
 ### Language
 * PHP (Laravel)
 * Dart (Flutter) or Kotlin
 
+## School One functins are as follow:
 ### Level
 * Owner
 * Admin or Head Teacher
